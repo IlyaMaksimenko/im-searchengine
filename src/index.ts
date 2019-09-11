@@ -1,0 +1,5 @@
+export { Search } from "./Search"
+export { SearchResult } from "./SearchResult"
+export { SearchHit } from "./SearchHit"
+export { StringChunk } from "./StringChunk"
+export { StringWord } from "./StringWord"
