@@ -2,7 +2,8 @@
   "name": "im-searchengine",
   "version": "1.0.0",
   "description": "Search tool",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest"
@@ -10,6 +11,13 @@
   "keywords": [
     "search"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaMaksimenko/im-searchengine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IlyaMaksimenko/im-searchengine/issues"
+  },
   "author": "Ilya Maksimenko",
   "license": "MIT",
   "dependencies": {},
